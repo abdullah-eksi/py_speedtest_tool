@@ -68,6 +68,4 @@ The main window is created using tkinter and includes the following components:
 
 Each button calls the corresponding speed test function.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
